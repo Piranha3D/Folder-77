@@ -1,6 +1,2 @@
-ini adalah test readme
-ini adalah baris ke 2
-
-tambah tulisan lagi di line ke 4
-
-test lagi di line 6
+Introduction
+A bachelor of Telecommunication Engineering from Telkom University with 4 times professional experience as Administration, Cloud admin, IT admin, and IT Centralized Backup System. Active in student campus event in 1 year. Familiar with Virtual Machine, Windows Os, Hardware Maintenance, IT Service. Interested in IT industry and strong willingnes to learn about new things. I am looking forward to challengeing myself and growing more for future experiences.
